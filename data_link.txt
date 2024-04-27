@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/qusaybtoush1990/transactions-data-bank-fraud-detection
+https://www.kaggle.com/datasets/ealaxi/banksim1
