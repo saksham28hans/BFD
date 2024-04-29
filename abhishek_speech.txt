@@ -1,0 +1,79 @@
+Banking Fraud Detection
+
+
+
+
+
+Hello  everyone!
+
+Imagine this: You're on cloud nine because RCB just won the IPL final, and you're ecstatic! But then, out of the blue, a notification pops up saying your account has been debited by 30,000 rs. That's when panic sets in.
+
+
+
+But hey, take a deep breath! We're here to ease those scary thoughts that come with the word "fraud."
+
+
+
+Welcome everyone  ,we are here with  our project on banking fraud detection! 
+
+
+
+Let me introduce you to the awesome team behind this project : Akansha Kumari, Saksham Hans, and Mahit Kumar. 
+
+So  let's dive into how we're ensuring your money stays safe and secure! 
+
+
+
+
+
+Slide change 
+
+
+
+So the first question is what is Bank Fraud . 
+
+
+
+
+
+Bank fraud happens when someone tries to trick a bank or its customers to make money illegally. It comes in different forms like stealing identities, using fake credit cards, or making transactions without permission. Basically, it's like cheating the banking system to benefit themselves, which can hurt others. Our role is to catch and stop these scams, making sure the banking system stays safe and trustworthy for everyone.
+
+
+
+
+
+
+
+
+
+Check out this slide! Our dataset mostly has non-fraudulent transactions, about 97.76%, and just 2.24% are fraudulent. Seems like a tiny portion, right? But hold on, take a look at the total amount involved in fraud transactions – it's a whopping 21.05% of the total! That's definitely something we need to keep an eye on.This is a cause for serious concern.
+
+
+
+
+
+Our project's fraud detection dashboard is essential in battling banking fraud. It analyzes transactions, revealing patterns and detecting potential fraudulent activities. Through this project  we explore various fraud aspects, such as identifying high-fraud cities, vulnerable age groups, and suspect merchants. Moreover, we've developed a fraud detection algorithms using machine learning. These algorithms enable real-time detection and flagging of suspicious activities, facilitating prompt notification to customers and financial institutions. Our mission is to empower users with insights and tools to protect their finances. By taking a proactive stance on fraud detection and prevention, we strive to eliminate the fear associated with fraudulent activities, making 'fraud' a thing of the past."
+
+
+
+
+
+
+
+So here comes our methodology 
+
+The initial step involves collecting data. We obtained a bank dataset from Kaggle, which had a good number of records. However, it lacked some of the features needed for our project. To address this, we synthesised the data and incorporated additional features from another dataset.
+
+
+
+Now that we have our data, it's time to clean and transform it. In data cleaning, we address missing values, identify and remove duplicates, handle outliers, remove inconsistent entries—such as those where the transaction amount exceeds the person's old balance.
+
+After cleaning, we transform the data—for instance, converting gender categories to numeric values, like 1 for male and 0 for female.
+
+Lastly, we prepare the data for Power bi like create new column such as total fraud for a person 
+
+
+
+Next up is one of the most crucial steps: dashboard development and analysis. Here, we bring together data from different sources and craft an insightful dashboard. We dive into categorical fraud analysis, which includes segmenting transactions and examining merchants and payment methods.
+
+Geospatial analysis comes into play, utilizing location-based alerts to identify fraud hotspots. Lastly, we dive into customer-merchant fraud analysis, which involves analyzing behavior patterns, assessing risks, and conducting link analysis to spot fraudulent activities tied to specific entities. By integrating these elements, we ensure a comprehensive and efficient fraud detection system.
